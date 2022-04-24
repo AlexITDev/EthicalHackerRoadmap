@@ -336,7 +336,3 @@ ____
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexitdev)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexITDev)
 ____
-More about this source textSource text required for additional translation information
-Send feedback
-Side panels
-5,000 character limit. Use the arrows to translate more.
