@@ -19,6 +19,14 @@ ____
   * *Administering Windows and working with Powershell*
   * *Network*
 
+* *LEVEL 2 - Ethical Hacker*
+  * * Fundamentals of Encryption (CIPF) *
+  * *Python for pentesters*
+  * *Linux System Administration*
+  * *Network administration in Linux*
+  * *Linux for Information Security Specialist*
+  * *Database Security*
+  * *Cyber ​​Security Specialist*
 ____
 ## **LEVEL 1 - Beginner**
 ____
@@ -165,8 +173,170 @@ ____
  • FireWall.
 
 ____
+## **LEVEL 2 - Ethical Hacker**
+____
+## **Basics of Encryption (CIPF)**
+![Cryptography](https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=Cryptography&logoColor=blue)
+____
+
+ • History of cryptography and information coding.
+
+ • Hash functions.
+
+ • Symmetric encryption.
+
+ • Asymmetric encryption.
+
+ • PKI and certificates.
+
+ •   Electronic signature.
+
+ • SSL: Network authentication protocols.
+ 
+ • Steganography and obfuscation.
+____
+## **Python for pentesters**
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=green)
+____
+ • Introduction to Python.
+
+ • We automate the collection of information about the system.
+
+ • Research of web resources.
+
+ • Brute force and traffic analysis.
+
+ • Breaking cryptographic ciphers.
+
+ • Code Debugging.
+____
+## **Linux System Administration**
+![KaliLinux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
+____
+ • Basic operations in the Bash terminal and working with files and directories.
+
+ • Privileges in Linux.
+
+ • Access control.
+
+ • Accounts in Linux and group policies.
+
+ • I/O control and pipelining.
+
+ • Process management.
+
+ • Loading and configuring the Linux kernel.
+
+ • Start user space.
+
+ • System management.
+
+ • Logging and monitoring.
+
+ •   Installation and removal of programms.
+
+ • Security controls.
+
+ • Elevation of privileges in Linux.
+
+ • Data backup and recovery.
+____
+## **Network administration in Linux**
+![KaliLinux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
+____
+ • Network structure.
+
+ • Basic protocols.
+
+ • Routing and setting up remote access.
+
+ • NFS file system, working with DNS.
+
+ • Apache.
+
+ • Netfilter.
+
+ • Network health.
+
+ • Incidents on the local network.
+____
+## **Linux for the security professional**
+![KaliLinux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=blue)
+____
+ • System purpose and threat model.
+
+ • Information security policy.
+
+ • Monitoring and alerts.
+
+ • Auditing systems or attacking systems.
+
+ • Writing a report on the audit or attack.
+
+ • Security Operations Center.
+
+ • Incident investigation.
+
+ • Incident response and recovery.
+____
+## **Database Security**
+![DataBase](https://img.shields.io/badge/Data_base-000000?style=for-the-badge&logo=sql&logoColor=blue)
+____
+ • Introduction to databases.
+
+ • Relational/non-relational databases.
+
+ • Operation of relational databases on the example of PostgreSQL.
+
+ • Operation of document-oriented databases on the example of MongoDB.
+
+ • SQL and database programming.
+
+ • Secure database operation.
+
+ • Technological solutions for data protection by means of databases.
+____
+## **Cyber ​​Security Specialist**
+![EthicalHacker](https://img.shields.io/badge/Ethical_Hacker-000000?style=for-the-badge&logo=&logoColor=blue)
+____
+ •   Collection of information.
+
+ • Ethical hacking with Nmap.
+
+ • Brute force attacks.
+
+ • Means of exploitation.
+
+ • Network attacks and traffic analysis.
+
+ • Methodological foundations of information security.
+
+ • Security of wireless systems.
+
+ • Web application security.
+
+ • Analysis of mobile applications.
+
+ • Computer forensics.
+
+ • Reverse engineering.
+
+ • Fuzzing.
+
+ • Reporting systems.
+
+ • Tools for detecting intrusions and data leaks.
+
+ • Lab: OWASP top 10.
+
+ • Lab: post-exploitation and pivoting.
+____
 ## **Follow me:**
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexitdev)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexITDev)
 ____
+More about this source textSource text required for additional translation information
+Send feedback
+Side panels
+5,000 character limit. Use the arrows to translate more.
