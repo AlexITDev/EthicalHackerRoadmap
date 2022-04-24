@@ -1,12 +1,16 @@
 ![Header](https://github.com/AlexITDev/EthicalHackerRoadmap/blob/main/assets/header.png)
 
 # **Ethical Hacking roadmap**
+
+###  *Detalised Roadmap to become an ***Ehtical Hacker****
+###  *Description includes **additional materials** (Books, Videos)*
 ____
 ## **Languages**
-![RUS](https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/RU.png)
-![RUS_VERSION](https://github.com/AlexITDev/EthicalHackerRoadmap/tree/main/languages/README_RUS.md)
-![ENG](https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/ENG.png)
-[ENG_VERSION](https://github.com/AlexITDev/EthicalHackerRoadmap/tree/main/languages/README_ENG.md)
+* RUSSIAN VERSION:
+[![RUS](https://github.com/AlexITDev/EthicalHackerRoadmap/blob/main/assets/RU.png)](https://github.com/AlexITDev/EthicalHackerRoadmap/tree/main/languages/README_RUS.md)
+
+* ENGLISH VERSION:
+[![ENG](https://github.com/AlexITDev/EthicalHackerRoadmap/blob/main/assets/EN.png)](https://github.com/AlexITDev/EthicalHackerRoadmap/tree/main/languages/README_ENG.md)
 ____
 ## **Follow me:**
 
