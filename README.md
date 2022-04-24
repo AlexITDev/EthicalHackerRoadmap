@@ -12,6 +12,14 @@ ____
 * ENGLISH VERSION:
 [![ENG](https://github.com/AlexITDev/EthicalHackerRoadmap/blob/main/assets/EN.png)](https://github.com/AlexITDev/EthicalHackerRoadmap/tree/main/languages/README_ENG.md)
 ____
+
+## **Description**
+____
+* ***LVL 1** - Beginner*
+* ***LVL 2** - Ethical Hacker*
+* ***Books***
+* ***Videos***
+____
 ## **Follow me:**
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alexitdev) 
